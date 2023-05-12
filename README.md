@@ -10,6 +10,7 @@ On the first page, locate and click on the "Start" button to initiate the progra
 You will be redirected to the second page where you will be prompted to select a specific process and provide detailed information on the required number and type of resources necessary for its execution.
 
 ![p2](https://github.com/MennaMSeif/Banker-s-Algorithm-Simulator/assets/132026573/f2013d00-a82e-42b0-a2f1-e32038ebafea)
+
 Click on the "Next" button to proceed to the third page, where you will be required to input the current allocation, maximum requirement, and available resources.
 
 
